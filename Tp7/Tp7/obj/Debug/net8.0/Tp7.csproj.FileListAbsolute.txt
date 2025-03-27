@@ -1,0 +1,17 @@
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Tp7.exe
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Tp7.deps.json
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Tp7.runtimeconfig.json
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Tp7.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Tp7.pdb
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.csproj.AssemblyReference.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.AssemblyInfoInputs.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.AssemblyInfo.cs
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.csproj.CoreCompileInputs.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.csproj.Up2Date
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\refint\Tp7.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.pdb
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Tp7.genruntimeconfig.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\ref\Tp7.dll

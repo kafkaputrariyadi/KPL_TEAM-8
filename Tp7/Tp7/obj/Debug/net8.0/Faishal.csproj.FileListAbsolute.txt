@@ -1,0 +1,17 @@
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Faishal.exe
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Faishal.deps.json
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Faishal.runtimeconfig.json
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Faishal.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Faishal.pdb
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.csproj.AssemblyReference.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.AssemblyInfoInputs.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.AssemblyInfo.cs
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.csproj.CoreCompileInputs.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.csproj.Up2Date
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\refint\Faishal.dll
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.pdb
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\Faishal.genruntimeconfig.cache
+C:\Users\MSI\KPL_TEAM-8\Tp7\Tp7\obj\Debug\net8.0\ref\Faishal.dll

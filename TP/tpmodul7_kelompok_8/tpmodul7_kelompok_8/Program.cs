@@ -2,6 +2,6 @@
 {
     static void Main(string[] args)
     {
-        DataMahasiswa2311104078.ReadJSON();
+        KuliahMahasiswa2311104078.ReadJSON();
     }
 }
